@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Blog-01
 cms_exclude: true
 
 # View.
